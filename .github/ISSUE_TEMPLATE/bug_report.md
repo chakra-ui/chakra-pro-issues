@@ -30,9 +30,9 @@ If applicable, add screenshots to help explain your problem.
 
 **Browser/Device (if applicable)**
 
-- OS: [e.g. iOS]
+- Chakra UI version [e.g. 1.1.6]
+- Operating system: [e.g. iOS]
 - Browser [e.g. chrome, safari]
-- Version [e.g. 22]
 
 **Additional context**
 Add any other context about the problem here.
