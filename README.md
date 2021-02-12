@@ -10,6 +10,4 @@ Hey! Welcome to the Issue Tracker for [Chakra UI Pro](https://pro-chakra-ui.com)
 
 If you have questions about how to tweak or refactor a specific component to meet your project's needs, we recommend joining the private Discord community and ask your question to the group.
 
-**[Join the Chakra UI Pro Community](https://pro-chakra-ui.com/discord)**
-
 Because every project is different and the way independently authored pieces of code interact can be complex and time-consuming to understand, **we do not offer technical support or consulting**. We do monitor the Discord community closely and will happily chime in with answers or advice if we see a question we are able to help with, we just can't guarantee official technical support as part of your purchase.
