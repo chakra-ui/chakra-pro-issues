@@ -1,6 +1,6 @@
 # Chakra UI Pro - Issue Tracker
 
-Hey! Welcome to the Issue Tracker for [Chakra UI Pro](https://pro-chakra-ui.com). The goal of this repo is to help you:
+Hey! Welcome to the Issue Tracker for [Chakra UI Pro](https://pro.chakra-ui.com). The goal of this repo is to help you:
 
 - Report bugs you find when using the components.
 - Suggest new components or features you'd like.
